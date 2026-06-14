@@ -1,0 +1,166 @@
+/* 기본 초기화 */
+body {
+  margin: 0;
+  font-family: "Times New Roman", serif;
+  background-color: #f4f1e8;
+  color: #2c2c2c;
+}
+
+/* 전체 화면 중앙 정렬 */
+#main, #result {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  height: 90vh;
+}
+#hanja {
+  font-size: 200px;      /* 크게 */
+  font-weight: bold;
+  letter-spacing: 5px;
+  margin-bottom: 1px;
+  margin-top: 0px;
+}
+
+/* 카드 느낌 박스 */
+#main, #result {
+  gap: 10px;
+}
+
+/* 입력창 */
+input {
+  width: 220px;
+  padding: 10px;
+  border: 1px solid #8b7d6b;
+  background-color: #fffdf7;
+  font-size: 14px;
+  outline: none;
+}
+
+/* 입력창 포커스 */
+input:focus {
+  border-color: #5a4a3b;
+}
+
+/* 버튼 */
+button {
+  width: 240px;
+  padding: 10px;
+  border: 1px solid #6b5b4b;
+  background-color: #e6dccb;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+/* 버튼 hover */
+button:hover {
+  background-color: #d6cbb5;
+}
+
+/* 제목 느낌 */
+#result p {
+  font-weight: 900;
+  font-size: 60px;
+  margin-bottom: 10px;
+  letter-spacing: 0px;
+}
+
+/* 처음엔 result 숨김 */
+#result {
+  display: none;
+}
+#main {
+display: none;
+}
+/* first 화면도 중앙 정렬 */
+#first {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+height: 100vh;
+gap: 12px;
+}
+
+/* 제목 (간판 느낌) */
+#first h1 {
+font-size: 40px;
+margin: 0;
+letter-spacing: 3px;
+}
+
+/* 설명 텍스트 */
+#first p {
+margin: 0;
+font-size: 16px;
+color: #5a4a3b;
+}
+
+/* 입력창 살짝 더 강조 */
+#first input {
+width: 240px;
+text-align: center;
+}
+
+/* 버튼도 동일 톤 유지 */
+#first button {
+width: 130px;
+}
+#result_display {
+font-size: 100px;
+}
+#playBtn {
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 50px;
+font-weight: bold;
+color: white;
+width: 50px;
+height: 50px;
+position: absolute;
+top: 20px;
+left: 20px;
+
+padding: 12px 24px;
+font-size: 16px;
+font-weight: bold;
+
+color: white;
+background: linear-gradient(135deg, #fab873, #ad8051);
+border: none;
+border-radius: 999px;
+
+cursor: pointer;
+transition: all 0.2s ease;
+
+box-shadow: 0 4px 15px rgba(175, 128, 76, 0.4);
+}
+
+/* 호버 */
+#playBtn:hover {
+transform: scale(1.08);
+box-shadow: 0 6px 20px rgba(175, 128, 79, 0.6);
+}
+
+/* 클릭 */
+#playBtn:active {
+transform: scale(0.95);
+}
+
+/* 살짝 빛나는 효과 */
+#playBtn::after {
+content: "";
+position: absolute;
+inset: 0;
+border-radius: 999px;
+background: rgba(255,255,255,0.2);
+opacity: 0;
+transition: 0.3s;
+}
+
+#playBtn:hover::after {
+opacity: 1;
+}

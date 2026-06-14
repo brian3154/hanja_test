@@ -1,0 +1,557 @@
+[
+    {
+        "shape": "四",
+        "mean": "넷",
+        "pronounce": "사"
+    },
+    {
+        "shape": "面",
+        "mean": "얼굴",
+        "pronounce": "면"
+    },
+    {
+        "shape": "楚",
+        "mean": "초나라",
+        "pronounce": "초"
+    },
+    {
+        "shape": "歌",
+        "mean": "노래",
+        "pronounce": "가"
+    },
+    {
+        "shape": "咸",
+        "mean": "모두",
+        "pronounce": "함"
+    },
+    {
+        "shape": "興",
+        "mean": "일어날",
+        "pronounce": "흥"
+    },
+    {
+        "shape": "差",
+        "mean": "사신 보내다",
+        "pronounce": "차"
+    },
+    {
+        "shape": "使",
+        "mean": "심부름 보낼",
+        "pronounce": "사"
+    },
+    {
+        "shape": "鷄",
+        "mean": "닭",
+        "pronounce": "계"
+    },
+    {
+        "shape": "卵",
+        "mean": "알",
+        "pronounce": "란"
+    },
+    {
+        "shape": "有",
+        "mean": "있을",
+        "pronounce": "유"
+    },
+    {
+        "shape": "骨",
+        "mean": "뼈",
+        "pronounce": "골"
+    },
+    {
+        "shape": "朝",
+        "mean": "아침",
+        "pronounce": "조"
+    },
+    {
+        "shape": "三",
+        "mean": "셋",
+        "pronounce": "삼"
+    },
+    {
+        "shape": "暮",
+        "mean": "저녁",
+        "pronounce": "모"
+    },
+    {
+        "shape": "四",
+        "mean": "넷",
+        "pronounce": "사"
+    },
+    {
+        "shape": "狐",
+        "mean": "여우",
+        "pronounce": "호"
+    },
+    {
+        "shape": "假",
+        "mean": "빌리다",
+        "pronounce": "가"
+    },
+    {
+        "shape": "虎",
+        "mean": "호랑이",
+        "pronounce": "호"
+    },
+    {
+        "shape": "威",
+        "mean": "위엄",
+        "pronounce": "위"
+    },
+    {
+        "shape": "竹",
+        "mean": "대나무",
+        "pronounce": "죽"
+    },
+    {
+        "shape": "馬",
+        "mean": "말",
+        "pronounce": "마"
+    },
+    {
+        "shape": "故",
+        "mean": "옛",
+        "pronounce": "고"
+    },
+    {
+        "shape": "友",
+        "mean": "친구",
+        "pronounce": "우"
+    },
+    {
+        "shape": "莫",
+        "mean": "없다",
+        "pronounce": "막"
+    },
+    {
+        "shape": "逆",
+        "mean": "거스르다",
+        "pronounce": "역"
+    },
+    {
+        "shape": "之",
+        "mean": "어조사",
+        "pronounce": "지"
+    },
+    {
+        "shape": "知",
+        "mean": "알다",
+        "pronounce": "지"
+    },
+    {
+        "shape": "己",
+        "mean": "자기",
+        "pronounce": "기"
+    },
+    {
+        "shape": "水",
+        "mean": "물",
+        "pronounce": "수"
+    },
+    {
+        "shape": "魚",
+        "mean": "물고기",
+        "pronounce": "어"
+    },
+    {
+        "shape": "交",
+        "mean": "사귈",
+        "pronounce": "교"
+    },
+    {
+        "shape": "言",
+        "mean": "말",
+        "pronounce": "언"
+    },
+    {
+        "shape": "中",
+        "mean": "가운데",
+        "pronounce": "중"
+    },
+    {
+        "shape": "忠",
+        "mean": "충성",
+        "pronounce": "충"
+    },
+    {
+        "shape": "耳",
+        "mean": "귀",
+        "pronounce": "이"
+    },
+    {
+        "shape": "頂",
+        "mean": "정수리",
+        "pronounce": "정"
+    },
+    {
+        "shape": "門",
+        "mean": "문",
+        "pronounce": "문"
+    },
+    {
+        "shape": "一",
+        "mean": "하나",
+        "pronounce": "일"
+    },
+    {
+        "shape": "針",
+        "mean": "침",
+        "pronounce": "침"
+    },
+    {
+        "shape": "寸",
+        "mean": "마디",
+        "pronounce": "촌"
+    },
+    {
+        "shape": "鐵",
+        "mean": "쇠",
+        "pronounce": "철"
+    },
+    {
+        "shape": "殺",
+        "mean": "죽이다",
+        "pronounce": "살"
+    },
+    {
+        "shape": "人",
+        "mean": "사람",
+        "pronounce": "인"
+    },
+    {
+        "shape": "行",
+        "mean": "다니다",
+        "pronounce": "행"
+    },
+    {
+        "shape": "致",
+        "mean": "이르다",
+        "pronounce": "치"
+    },
+    {
+        "shape": "漁",
+        "mean": "고기잡다",
+        "pronounce": "어"
+    },
+    {
+        "shape": "父",
+        "mean": "아버지",
+        "pronounce": "부"
+    },
+    {
+        "shape": "利",
+        "mean": "이롭다",
+        "pronounce": "리"
+    },
+    {
+        "shape": "結",
+        "mean": "맺다",
+        "pronounce": "결"
+    },
+    {
+        "shape": "草",
+        "mean": "풀",
+        "pronounce": "초"
+    },
+    {
+        "shape": "報",
+        "mean": "갚다",
+        "pronounce": "보"
+    },
+    {
+        "shape": "恩",
+        "mean": "은혜",
+        "pronounce": "은"
+    },
+    {
+        "shape": "多",
+        "mean": "많을",
+        "pronounce": "다"
+    },
+    {
+        "shape": "益",
+        "mean": "더하다",
+        "pronounce": "익"
+    },
+    {
+        "shape": "善",
+        "mean": "착하다",
+        "pronounce": "선"
+    },
+    {
+        "shape": "二",
+        "mean": "둘",
+        "pronounce": "이"
+    },
+    {
+        "shape": "五",
+        "mean": "다섯",
+        "pronounce": "오"
+    },
+    {
+        "shape": "六",
+        "mean": "여섯",
+        "pronounce": "육"
+    },
+    {
+        "shape": "七",
+        "mean": "일곱",
+        "pronounce": "칠"
+    },
+    {
+        "shape": "八",
+        "mean": "여덟",
+        "pronounce": "팔"
+    },
+    {
+        "shape": "九",
+        "mean": "아홉",
+        "pronounce": "구"
+    },
+    {
+        "shape": "十",
+        "mean": "열",
+        "pronounce": "십"
+    },
+    {
+        "shape": "百",
+        "mean": "일백",
+        "pronounce": "백"
+    },
+    {
+        "shape": "千",
+        "mean": "일천",
+        "pronounce": "천"
+    },
+    {
+        "shape": "萬",
+        "mean": "일만",
+        "pronounce": "만"
+    },
+    {
+        "shape": "日",
+        "mean": "해",
+        "pronounce": "일"
+    },
+    {
+        "shape": "月",
+        "mean": "달",
+        "pronounce": "월"
+    },
+    {
+        "shape": "山",
+        "mean": "산",
+        "pronounce": "산"
+    },
+    {
+        "shape": "川",
+        "mean": "내",
+        "pronounce": "천"
+    },
+    {
+        "shape": "目",
+        "mean": "눈",
+        "pronounce": "목"
+    },
+    {
+        "shape": "上",
+        "mean": "위",
+        "pronounce": "상"
+    },
+    {
+        "shape": "下",
+        "mean": "아래",
+        "pronounce": "하"
+    },
+    {
+        "shape": "本",
+        "mean": "근본",
+        "pronounce": "본"
+    },
+    {
+        "shape": "末",
+        "mean": "끝",
+        "pronounce": "말"
+    },
+    {
+        "shape": "休",
+        "mean": "쉴",
+        "pronounce": "휴"
+    },
+    {
+        "shape": "好",
+        "mean": "좋을",
+        "pronounce": "호"
+    },
+    {
+        "shape": "林",
+        "mean": "수풀",
+        "pronounce": "림"
+    },
+    {
+        "shape": "炎",
+        "mean": "불꽃",
+        "pronounce": "염"
+    },
+    {
+        "shape": "江",
+        "mean": "강",
+        "pronounce": "강"
+    },
+    {
+        "shape": "河",
+        "mean": "물",
+        "pronounce": "하"
+    },
+    {
+        "shape": "海",
+        "mean": "바다",
+        "pronounce": "해"
+    },
+    {
+        "shape": "洋",
+        "mean": "큰바다",
+        "pronounce": "양"
+    },
+    {
+        "shape": "身",
+        "mean": "몸",
+        "pronounce": "신"
+    },
+    {
+        "shape": "體",
+        "mean": "몸",
+        "pronounce": "체"
+    },
+    {
+        "shape": "宇",
+        "mean": "집",
+        "pronounce": "우"
+    },
+    {
+        "shape": "宙",
+        "mean": "집",
+        "pronounce": "주"
+    },
+    {
+        "shape": "有",
+        "mean": "있을",
+        "pronounce": "유"
+    },
+    {
+        "shape": "無",
+        "mean": "없을",
+        "pronounce": "무"
+    },
+    {
+        "shape": "去",
+        "mean": "가다",
+        "pronounce": "거"
+    },
+    {
+        "shape": "來",
+        "mean": "올",
+        "pronounce": "래"
+    },
+    {
+        "shape": "淸",
+        "mean": "맑을",
+        "pronounce": "청"
+    },
+    {
+        "shape": "風",
+        "mean": "바람",
+        "pronounce": "풍"
+    },
+    {
+        "shape": "明",
+        "mean": "밝을",
+        "pronounce": "명"
+    },
+    {
+        "shape": "靑",
+        "mean": "푸를",
+        "pronounce": "청"
+    },
+    {
+        "shape": "雲",
+        "mean": "구름",
+        "pronounce": "운"
+    },
+    {
+        "shape": "流",
+        "mean": "흐르다",
+        "pronounce": "류"
+    },
+    {
+        "shape": "星",
+        "mean": "별",
+        "pronounce": "성"
+    },
+    {
+        "shape": "出",
+        "mean": "나오다",
+        "pronounce": "출"
+    },
+    {
+        "shape": "年",
+        "mean": "해",
+        "pronounce": "년"
+    },
+    {
+        "shape": "少",
+        "mean": "적을",
+        "pronounce": "소"
+    },
+    {
+        "shape": "和",
+        "mean": "화목할",
+        "pronounce": "화"
+    },
+    {
+        "shape": "讀",
+        "mean": "읽을",
+        "pronounce": "독"
+    },
+    {
+        "shape": "書",
+        "mean": "책",
+        "pronounce": "서"
+    },
+    {
+        "shape": "修",
+        "mean": "닦을",
+        "pronounce": "수"
+    },
+    {
+        "shape": "愛",
+        "mean": "사랑할",
+        "pronounce": "애"
+    },
+    {
+        "shape": "國",
+        "mean": "나라",
+        "pronounce": "국"
+    },
+    {
+        "shape": "登",
+        "mean": "오를",
+        "pronounce": "등"
+    },
+    {
+        "shape": "入",
+        "mean": "들어갈",
+        "pronounce": "입"
+    },
+    {
+        "shape": "學",
+        "mean": "배울",
+        "pronounce": "학"
+    },
+    {
+        "shape": "情",
+        "mean": "뜻",
+        "pronounce": "정"
+    }
+]

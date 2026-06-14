@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="favicon2.png">
+    <link rel="stylesheet" href="style.css">
+    <title>모의테스트</title>
+</head>
+<body>
+    <button id="playBtn">🔇</button>
+    <div id="first">
+        <h1>모의테스트</h1>
+        <p>원하는 문제의 갯수를 기입하시오.</p>
+        <input type="number" placeholder="문제 갯수" id="input_num">
+        <div id="button_container">
+            <button type="button" id="button_start">중간고사</button>
+            <button type="button" id="button_start_2">기말고사</button>
+        </div>
+        <p id="introduce">※ 모든 뜻과 음은 학습지 기준입니다.</p>
+        <p id="introduce">※ 뜻이 2개인 경우 중간에 ",   "로 구분하여 작성합니다.</p>
+    </div>
+    <div id="main">
+        <p id="hanja"></p>
+        <input type="text" placeholder="뜻" id="mean">
+        <input type="text" placeholder="음" id="pronounce">
+        <button type="button" id="button_next">Next</button>
+    </div>
+    <div id="result">
+        <p id="result_display"></p>
+        <button type="button" id="retry_btn">다시하기</button>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="script.js"></script>
+</body>
+</html>
