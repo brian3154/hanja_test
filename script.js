@@ -10,6 +10,9 @@ const result_display = document.getElementById("result_display");
 const retry_btn = document.getElementById("retry_btn");
 const music = new Audio('bgmplaylist.mp3');
 const button_play = document.getElementById("playBtn");
+const show_false_btn = document.getElementById("show_false_btn");
+const false_hanja = document.getElementById("false_hanja");
+let falseHanja = [];
 let range = [];
 let allData = [];
 let answer_num = 0;
@@ -48,6 +51,11 @@ function true_false(num) {
       title: "오답입니다!",
       text: `정답은 ${data_mean} ${data_pronounce}입니다.`
     });
+    falseHanja.push({
+      "shape": allData[num].shape,
+      "mean": [data_mean, answer_mean],
+      "pronounce": [data_pronounce, answer_pronounce]
+    })
   }
 }
 function reset_input() {
@@ -136,4 +144,16 @@ retry_btn.addEventListener('click', () => {
   result_div.style.display = "none";
   first_div.style.display = "flex";
   document.getElementById("input_num").value = "";
+  falseHanja = [];
+  false_hanja.innerHTML = "";
+  show_false_btn.disabled = false;
 });
+show_false_btn.addEventListener('click', () => {
+  falseHanja.forEach(hanja => {
+    const p = document.createElement("p");
+    p.textContent = `${hanja.shape} : ${hanja.mean[1]} ${hanja.pronounce[1]} -> ${hanja.mean[0]} ${hanja.pronounce[0]}`;
+    p.classList.add("word");
+    false_hanja.appendChild(p);
+  });
+  show_false_btn.disabled = true;
+})
