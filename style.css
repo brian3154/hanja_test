@@ -164,3 +164,15 @@ transition: 0.3s;
 #playBtn:hover::after {
 opacity: 1;
 }
+
+.word {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;      /* 크게 */
+  font-weight: 400;
+  letter-spacing: 5px;
+  margin-bottom: 1px;
+  margin-top: 0px;
+}
