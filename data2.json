@@ -198,5 +198,170 @@
         "shape": "生",
         "mean": "살다",
         "pronounce": "생"
+    },
+    {
+        "shape": "吾",
+        "mean": "나",
+        "pronounce": "오"
+    },
+    {
+        "shape": "鼻",
+        "mean": "코",
+        "pronounce": "비"
+    },
+    {
+        "shape": "三",
+        "mean": "셋",
+        "pronounce": "삼"
+    },
+    {
+        "shape": "尺",
+        "mean": "자",
+        "pronounce": "척"
+    },
+    {
+        "shape": "坐",
+        "mean": "앉다",
+        "pronounce": "좌"
+    },
+    {
+        "shape": "井",
+        "mean": "우물",
+        "pronounce": "정"
+    },
+    {
+        "shape": "觀",
+        "mean": "보다",
+        "pronounce": "관"
+    },
+    {
+        "shape": "天",
+        "mean": "하늘",
+        "pronounce": "천"
+    },
+    {
+        "shape": "歲",
+        "mean": "해",
+        "pronounce": "세"
+    },
+    {
+        "shape": "之",
+        "mean": "어조사",
+        "pronounce": "지"
+    },
+    {
+        "shape": "習",
+        "mean": "습관",
+        "pronounce": "습"
+    },
+    {
+        "shape": "至",
+        "mean": "이르다",
+        "pronounce": "지"
+    },
+    {
+        "shape": "于",
+        "mean": "어조사",
+        "pronounce": "우"
+    },
+    {
+        "shape": "千",
+        "mean": "일천",
+        "pronounce": "천"
+    },
+    {
+        "shape": "里",
+        "mean": "거리단위",
+        "pronounce": "리"
+    },
+    {
+        "shape": "始",
+        "mean": "시작하다",
+        "pronounce": "시"
+    },
+    {
+        "shape": "足",
+        "mean": "발",
+        "pronounce": "족"
+    },
+    {
+        "shape": "下",
+        "mean": "아래",
+        "pronounce": "하"
+    },
+    {
+        "shape": "器",
+        "mean": "그릇",
+        "pronounce": "기"
+    },
+    {
+        "shape": "晩",
+        "mean": "늦다",
+        "pronounce": "만"
+    },
+    {
+        "shape": "成",
+        "mean": "이루다",
+        "pronounce": "성"
+    },
+    {
+        "shape": "仁",
+        "mean": "인자하다",
+        "pronounce": "인"
+    },
+    {
+        "shape": "者",
+        "mean": "사람",
+        "pronounce": "자"
+    },
+    {
+        "shape": "敵",
+        "mean": "적",
+        "pronounce": "적"
+    },
+    {
+        "shape": "知",
+        "mean": "알다",
+        "pronounce": "지"
+    },
+    {
+        "shape": "不",
+        "mean": "아니다",
+        "pronounce": "불"
+    },
+    {
+        "shape": "如",
+        "mean": "같을",
+        "pronounce": "여"
+    },
+    {
+        "shape": "好",
+        "mean": "좋아하다",
+        "pronounce": "호"
+    },
+    {
+        "shape": "樂",
+        "mean": "즐기다",
+        "pronounce": "락"
+    },
+    {
+        "shape": "精",
+        "mean": "자세하다",
+        "pronounce": "정"
+    },
+    {
+        "shape": "神",
+        "mean": "정신",
+        "pronounce": "신"
+    },
+    {
+        "shape": "到",
+        "mean": "이르다",
+        "pronounce": "도"
+    },
+    {
+        "shape": "何",
+        "mean": "어찌",
+        "pronounce": "하"
     }
 ]
