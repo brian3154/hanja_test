@@ -363,5 +363,20 @@
         "shape": "何",
         "mean": "어찌",
         "pronounce": "하"
+    },
+    {
+        "shape": "於",
+        "mean": "어조사",
+        "pronounce": "어"
+    },
+    {
+        "shape": "乎",
+        "mean": "어조사",
+        "pronounce": "호"
+    },
+    {
+        "shape": "諸",
+        "mean": "어조사",
+        "pronounce": "저"
     }
 ]
