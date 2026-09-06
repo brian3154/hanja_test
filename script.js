@@ -2,7 +2,8 @@ const hanja = document.getElementById("hanja");
 const button_next = document.getElementById("button_next");
 const input_num = document.getElementById("input_num");
 const button_start = document.getElementById("button_start");
-const button_start_2 = document.getElementById("button_start_2")
+const button_start_2 = document.getElementById("button_start_2");
+const button_start_3 = document.getElementById("button_start_3")
 const first_div = document.getElementById("first");
 const main_div = document.getElementById("main");
 const result_div = document.getElementById("result");
@@ -114,6 +115,33 @@ button_start_2.addEventListener('click', () => {
 });
 button_start_2.addEventListener('click', () => {
   fetch("data2.json")
+    .then(res => res.json())
+    .then(data => {
+      allData = data;
+      shuffle(allData);
+      if (value > 0 && value <= allData.length) {
+        range = Array.from({length: value}, (_, i) => i);
+        range.sort(() => Math.random() - 0.5);
+        range = range.slice(0, value);
+        first_div.style.display = "none";
+        main_div.style.display = "flex";
+      } else {
+        Swal.fire({
+          icon: "error",
+          title: "숫자를 자세히 보세요...",
+          text: "숫자가 음수, 0, 혹은 총 한자 개수를 초과하면 진행이 안된답니다..?",
+        });
+        return;
+      };
+      newQuestion();
+    });
+});
+button_start_3.addEventListener('click', () => {
+  value = Number(input_num.value);
+  answer_num = 0;
+});
+button_start_3.addEventListener('click', () => {
+  fetch("data3.json")
     .then(res => res.json())
     .then(data => {
       allData = data;
