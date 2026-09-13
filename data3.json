@@ -210,11 +210,6 @@
         "pronounce": "노"
     },
     {
-        "shape": "哀",
-        "mean": "슬플",
-        "pronounce": "애"
-    },
-    {
         "shape": "樂",
         "mean": "즐거울",
         "pronounce": "락"
@@ -263,6 +258,26 @@
         "shape": "中",
         "mean": "가운데,맞히다",
         "pronounce": "중"
+    },
+    {
+        "shape": "聞",
+        "mean": "듣다",
+        "pronounce": "문"
+    },
+    {
+        "shape": "眼",
+        "mean": "눈",
+        "pronounce": "안"
+    },
+    {
+        "shape": "看",
+        "mean": "보다",
+        "pronounce": "간"
+    },
+    {
+        "shape": "病",
+        "mean": "병",
+        "pronounce": "병"
     },
     {
         "shape": "異",
