@@ -34,7 +34,7 @@ function newQuestion() {
   if (allData[num2].shape.length >= 4) {
     hanja.style.fontSize = "150px";
   } else {
-    ifhanja.style.fontSize = "";
+    hanja.style.fontSize = "";
   }
   if (allData[num2].mean == "") {
     document.getElementById("mean").disabled = true;
