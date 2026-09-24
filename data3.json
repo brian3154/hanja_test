@@ -433,5 +433,85 @@
         "shape": "豊",
         "mean": "풍성할",
         "pronounce": "풍"
+    },
+    {
+        "shape": "字",
+        "mean": "글자",
+        "pronounce": "자"
+    },
+    {
+        "shape": "號",
+        "mean": "이름",
+        "pronounce": "호"
+    },
+    {
+        "shape": "諱",
+        "mean": "꺼리다",
+        "pronounce": "휘"
+    },
+    {
+        "shape": "初",
+        "mean": "처음",
+        "pronounce": "초"
+    },
+    {
+        "shape": "本",
+        "mean": "근본",
+        "pronounce": "본"
+    },
+    {
+        "shape": "筆",
+        "mean": "붓",
+        "pronounce": "필"
+    },
+    {
+        "shape": "胎",
+        "mean": "아이배다",
+        "pronounce": "태"
+    },
+    {
+        "shape": "別",
+        "mean": "다르다",
+        "pronounce": "별"
+    },
+    {
+        "shape": "所處以號",
+        "mean": "",
+        "pronounce": "소처이호"
+    },
+    {
+        "shape": "所志以號",
+        "mean": "",
+        "pronounce": "소지이호"
+    },
+    {
+        "shape": "所遇以號",
+        "mean": "",
+        "pronounce": "소우이호"
+    },
+    {
+        "shape": "所蓄以號",
+        "mean": "",
+        "pronounce": "소축이호"
+    },
+    {
+        "shape": "還甲",
+        "mean": "",
+        "pronounce": "환갑"
+    },
+    {
+        "shape": "回甲",
+        "mean": "",
+        "pronounce": "회갑"
+    },
+    {
+        "shape": "冠婚喪祭",
+        "mean": "",
+        "pronounce": "관혼상제"
+    },
+    {
+        "shape": "冠禮",
+        "mean": "",
+        "pronounce": "관례"
     }
 ]
