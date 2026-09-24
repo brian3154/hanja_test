@@ -28,11 +28,12 @@ function newQuestion() {
     return;
   }
   document.getElementById("mean").disabled = false; 
+  hanja.style.fontSize = "200px"
   num1 = rand(0, range.length - 1);
   num2 = range[num1];
   display_hanja = allData[num2].shape;
   if (allData[num2].shape.length >= 4) {
-    hanja.style.fontSize = "20px";
+    hanja.style.fontSize = "100px";
   }
   if (allData[num2].mean == "") {
     document.getElementById("mean").disabled = true;
