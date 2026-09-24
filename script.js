@@ -31,6 +31,11 @@ function newQuestion() {
   num1 = rand(0, range.length - 1);
   num2 = range[num1];
   display_hanja = allData[num2].shape;
+  if (display_hanja.length >= 4) {
+    hanja.style.fontSize = "100px";
+  } else {
+    hanja.style.fontSize = "200px";
+  }
   if (allData[num2].mean == "") {
     document.getElementById("mean").disabled = true;
   }
