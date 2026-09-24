@@ -32,7 +32,7 @@ function newQuestion() {
   num2 = range[num1];
   display_hanja = allData[num2].shape;
   if (allData[num2].shape.length >= 4) {
-    hanja.style.fontSize = "25px";
+    hanja.style.fontSize = "5px";
   }
   if (allData[num2].mean == "") {
     document.getElementById("mean").disabled = true;
