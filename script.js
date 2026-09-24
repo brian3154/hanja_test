@@ -32,7 +32,7 @@ function newQuestion() {
   num2 = range[num1];
   display_hanja = allData[num2].shape;
   if (display_hanja.length >= 4) {
-    hanja.style.fontSize = "100px";
+    hanja.style.fontSize = "75px";
   } else {
     hanja.style.fontSize = "200px";
   }
