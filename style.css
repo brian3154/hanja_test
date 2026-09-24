@@ -176,3 +176,6 @@ opacity: 1;
   margin-bottom: 1px;
   margin-top: 0px;
 }
+#mean:disabled {
+  background-color: #C5C6C7
+}
