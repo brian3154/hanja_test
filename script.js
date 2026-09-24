@@ -27,17 +27,18 @@ function newQuestion() {
     result_display.textContent = `결과: [ ${answer_num} / ${value} ]`
     return;
   }
-  document.getElementById("mean").disabled = false; 
-  hanja.style.fontSize = "200px"
+  document.getElementById("mean").disabled = false;
   num1 = rand(0, range.length - 1);
   num2 = range[num1];
   display_hanja = allData[num2].shape;
   if (allData[num2].shape.length >= 4) {
-    hanja.style.fontSize = "100px";
+    hanja.style.fontSize = "150px";
+  } else {
+    ifhanja.style.fontSize = "";
   }
   if (allData[num2].mean == "") {
     document.getElementById("mean").disabled = true;
-  }  
+  }
   hanja.textContent = display_hanja;
   range.splice(num1, 1);
 };
