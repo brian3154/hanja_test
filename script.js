@@ -27,12 +27,12 @@ function newQuestion() {
     result_display.textContent = `결과: [ ${answer_num} / ${value} ]`
     return;
   }
-  document.getElementById("pronounce").disabled = false; 
+  document.getElementById("mean").disabled = false; 
   num1 = rand(0, range.length - 1);
   num2 = range[num1];
   display_hanja = allData[num2].shape;
   if (allData[num2].mean == "") {
-    document.getElementById("pronounce").disabled = true;
+    document.getElementById("mean").disabled = true;
   }  
   hanja.textContent = display_hanja;
   range.splice(num1, 1);
