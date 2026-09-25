@@ -176,6 +176,9 @@ button_start_3.addEventListener('click', () => {
         return;
       };
       newQuestion();
+      progress_bar.value = 0;
+      progress_bar.max = value;
+      progress_text.textContent = "0 / " + value.toString();
     });
 });
 button_next.addEventListener('click', () => {
