@@ -13,10 +13,13 @@ const music = new Audio('bgmplaylist.mp3');
 const button_play = document.getElementById("playBtn");
 const show_false_btn = document.getElementById("show_false_btn");
 const false_hanja = document.getElementById("false_hanja");
+const progress_text = document.getElementById("progress_text");
+const progress_bar = document.getElementById("progress_bar");
 let falseHanja = [];
 let range = [];
 let allData = [];
 let answer_num = 0;
+
 function rand(min, max) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
 };
@@ -143,6 +146,9 @@ button_start_2.addEventListener('click', () => {
         return;
       };
       newQuestion();
+      progress_bar.value = 0;
+      progress_bar.max = value;
+      progress_text.textContent = "0 / " + value.toString();
     });
 });
 button_start_3.addEventListener('click', () => {
@@ -176,6 +182,8 @@ button_next.addEventListener('click', () => {
   true_false(num2);
   newQuestion();
   reset_input();
+  progress_bar.value += 1;
+  progress_text.textContent = progress_bar.value.toString() + " / " + progress_bar.max.toString();
 });
 retry_btn.addEventListener('click', () => {
   result_div.style.display = "none";
