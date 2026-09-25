@@ -13,7 +13,6 @@ const music = new Audio('bgmplaylist.mp3');
 const button_play = document.getElementById("playBtn");
 const show_false_btn = document.getElementById("show_false_btn");
 const false_hanja = document.getElementById("false_hanja");
-const button_home = Document.getElementById("homeBtn");
 let falseHanja = [];
 let range = [];
 let allData = [];
@@ -92,16 +91,6 @@ button_play.addEventListener('click', () => {
     boolll = true;
   }
 })
-button_home.addEventListener('click' () => {
-  result_div.style.display = "none";
-  main_div.style.display = "none";
-  first_div.style.display = "flex";
-  falseHanja = []
-  allData = []
-  range = []
-  answer_num = 0
-  
-}
 button_start.addEventListener('click', () => {
   value = Number(input_num.value);
   answer_num = 0;
