@@ -230,3 +230,7 @@ transition: 0.3s;
 #homeBtn:hover::after {
 opacity: 1;
 }
+#playBtn,
+#homeBtn {
+    box-sizing: border-box;
+}
