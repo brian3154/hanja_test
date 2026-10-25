@@ -1,0 +1,322 @@
+[
+    {
+        "shape": "大",
+        "mean": "크다",
+        "pronounce": "대"
+    },
+    {
+        "shape": "王",
+        "mean": "임금",
+        "pronounce": "왕"
+    },
+    {
+        "shape": "常",
+        "mean": "항상",
+        "pronounce": "상"
+    },
+    {
+        "shape": "語",
+        "mean": "말씀",
+        "pronounce": "어"
+    },
+    {
+        "shape": "汝",
+        "mean": "너",
+        "pronounce": "여"
+    },
+    {
+        "shape": "必",
+        "mean": "반드시",
+        "pronounce": "필"
+    },
+    {
+        "shape": "爲",
+        "mean": "하다",
+        "pronounce": "위"
+    },
+    {
+        "shape": "溫",
+        "mean": "따뜻할",
+        "pronounce": "온"
+    },
+    {
+        "shape": "達",
+        "mean": "통달하다",
+        "pronounce": "달"
+    },
+    {
+        "shape": "之",
+        "mean": "어조사",
+        "pronounce": "지"
+    },
+    {
+        "shape": "婦",
+        "mean": "아내",
+        "pronounce": "부"
+    },
+    {
+        "shape": "今",
+        "mean": "이제",
+        "pronounce": "금"
+    },
+    {
+        "shape": "何",
+        "mean": "어찌",
+        "pronounce": "하"
+    },
+    {
+        "shape": "故",
+        "mean": "옛",
+        "pronounce": "고"
+    },
+    {
+        "shape": "改",
+        "mean": "고치다",
+        "pronounce": "고"
+    },
+    {
+        "shape": "前",
+        "mean": "앞",
+        "pronounce": "전"
+    },
+    {
+        "shape": "言",
+        "mean": "말씀",
+        "pronounce": "언"
+    },
+    {
+        "shape": "乎",
+        "mean": "어조사",
+        "pronounce": "호"
+    },
+    {
+        "shape": "匹",
+        "mean": "짝,보통",
+        "pronounce": "필"
+    },
+    {
+        "shape": "夫",
+        "mean": "사나이",
+        "pronounce": "부"
+    },
+    {
+        "shape": "猶",
+        "mean": "오히려",
+        "pronounce": "유"
+    },
+    {
+        "shape": "不",
+        "mean": "아니다",
+        "pronounce": "불"
+    },
+    {
+        "shape": "欲",
+        "mean": "하고자하다",
+        "pronounce": "욕"
+    },
+    {
+        "shape": "食",
+        "mean": "먹다",
+        "pronounce": "식"
+    },
+    {
+        "shape": "況",
+        "mean": "하물며",
+        "pronounce": "황"
+    },
+    {
+        "shape": "至",
+        "mean": "이르다",
+        "pronounce": "지"
+    },
+    {
+        "shape": "尊",
+        "mean": "높다",
+        "pronounce": "존"
+    },
+    {
+        "shape": "生",
+        "mean": "살다",
+        "pronounce": "생"
+    },
+    {
+        "shape": "平",
+        "mean": "평평하다",
+        "pronounce": "평"
+    },
+    {
+        "shape": "向",
+        "mean": "향하다",
+        "pronounce": "향"
+    },
+    {
+        "shape": "人",
+        "mean": "사람",
+        "pronounce": "인"
+    },
+    {
+        "shape": "說",
+        "mean": "말하다",
+        "pronounce": "설"
+    },
+    {
+        "shape": "其",
+        "mean": "그것",
+        "pronounce": "기"
+    },
+    {
+        "shape": "將",
+        "mean": "장차",
+        "pronounce": "장"
+    },
+    {
+        "shape": "死",
+        "mean": "죽다",
+        "pronounce": "사"
+    },
+    {
+        "shape": "入",
+        "mean": "들어가다",
+        "pronounce": "입"
+    },
+    {
+        "shape": "道",
+        "mean": "길",
+        "pronounce": "도"
+    },
+    {
+        "shape": "林",
+        "mean": "수풀",
+        "pronounce": "림"
+    },
+    {
+        "shape": "寺",
+        "mean": "절",
+        "pronounce": "사"
+    },
+    {
+        "shape": "竹",
+        "mean": "대나무",
+        "pronounce": "죽"
+    },
+    {
+        "shape": "中",
+        "mean": "가운데",
+        "pronounce": "중"
+    },
+    {
+        "shape": "無",
+        "mean": "없을",
+        "pronounce": "무"
+    },
+    {
+        "shape": "處",
+        "mean": "장소",
+        "pronounce": "처"
+    },
+    {
+        "shape": "唱",
+        "mean": "부르짖다",
+        "pronounce": "창"
+    },
+    {
+        "shape": "云",
+        "mean": "말하다",
+        "pronounce": "운"
+    },
+    {
+        "shape": "吾",
+        "mean": "나",
+        "pronounce": "오"
+    },
+    {
+        "shape": "君",
+        "mean": "임금",
+        "pronounce": "군"
+    },
+    {
+        "shape": "耳",
+        "mean": "귀",
+        "pronounce": "이"
+    },
+    {
+        "shape": "如",
+        "mean": "같을",
+        "pronounce": "여"
+    },
+    {
+        "shape": "驢",
+        "mean": "당나귀",
+        "pronounce": "려"
+    },
+    {
+        "shape": "後",
+        "mean": "뒤",
+        "pronounce": "후"
+    },
+    {
+        "shape": "風",
+        "mean": "바람",
+        "pronounce": "풍"
+    },
+    {
+        "shape": "吹",
+        "mean": "불다",
+        "pronounce": "취"
+    },
+    {
+        "shape": "則",
+        "mean": "곧",
+        "pronounce": "즉"
+    },
+    {
+        "shape": "聲",
+        "mean": "소리,소리를내다",
+        "pronounce": "성"
+    },
+    {
+        "shape": "女",
+        "mean": "너",
+        "pronounce": "여"
+    },
+    {
+        "shape": "子",
+        "mean": "너",
+        "pronounce": "자"
+    },
+    {
+        "shape": "若",
+        "mean": "너",
+        "pronounce": "약"
+    },
+    {
+        "shape": "而",
+        "mean": "너",
+        "pronounce": "이"
+    },
+    {
+        "shape": "爾",
+        "mean": "너",
+        "pronounce": "이"
+    },
+    {
+        "shape": "乃",
+        "mean": "너",
+        "pronounce": "내"
+    },
+    {
+        "shape": "予",
+        "mean": "나",
+        "pronounce": "여"
+    },
+    {
+        "shape": "我",
+        "mean": "나",
+        "pronounce": "아"
+    },
+    {
+        "shape": "余",
+        "mean": "나",
+        "pronounce": "여"
+    }
+]
