@@ -318,5 +318,240 @@
         "shape": "余",
         "mean": "나",
         "pronounce": "여"
+    },
+    {
+        "shape": "亦",
+        "mean": "또한",
+        "pronounce": "역"
+    },
+    {
+        "shape": "是",
+        "mean": "이것",
+        "pronounce": "시"
+    },
+    {
+        "shape": "卽",
+        "mean": "곧,곧장",
+        "pronounce": "즉"
+    },
+    {
+        "shape": "時",
+        "mean": "때",
+        "pronounce": "시"
+    },
+    {
+        "shape": "追",
+        "mean": "쫓다",
+        "pronounce": "추"
+    },
+    {
+        "shape": "憶",
+        "mean": "생각할",
+        "pronounce": "억"
+    },
+    {
+        "shape": "素",
+        "mean": "본디,희다",
+        "pronounce": "소"
+    },
+    {
+        "shape": "朴",
+        "mean": "순박할",
+        "pronounce": "박"
+    },
+    {
+        "shape": "免",
+        "mean": "면할",
+        "pronounce": "면"
+    },
+    {
+        "shape": "除",
+        "mean": "덜다",
+        "pronounce": "제"
+    },
+    {
+        "shape": "貯",
+        "mean": "쌓을",
+        "pronounce": "저"
+    },
+    {
+        "shape": "金",
+        "mean": "금,돈",
+        "pronounce": "금"
+    },
+    {
+        "shape": "浴",
+        "mean": "몸을씻다",
+        "pronounce": "욕"
+    },
+    {
+        "shape": "室",
+        "mean": "방",
+        "pronounce": "실"
+    },
+    {
+        "shape": "貞",
+        "mean": "곧을",
+        "pronounce": "정"
+    },
+    {
+        "shape": "淑",
+        "mean": "맑을",
+        "pronounce": "숙"
+    },
+    {
+        "shape": "賣",
+        "mean": "팔다",
+        "pronounce": "매"
+    },
+    {
+        "shape": "買",
+        "mean": "사다",
+        "pronounce": "매"
+    },
+    {
+        "shape": "長",
+        "mean": "길다",
+        "pronounce": "장"
+    },
+    {
+        "shape": "篇",
+        "mean": "책",
+        "pronounce": "편"
+    },
+    {
+        "shape": "景",
+        "mean": "햇빛",
+        "pronounce": "경"
+    },
+    {
+        "shape": "氣",
+        "mean": "기운",
+        "pronounce": "기"
+    },
+    {
+        "shape": "競",
+        "mean": "겨루다",
+        "pronounce": "경"
+    },
+    {
+        "shape": "技",
+        "mean": "재주",
+        "pronounce": "기"
+    },
+    {
+        "shape": "扶",
+        "mean": "돕다",
+        "pronounce": "부"
+    },
+    {
+        "shape": "養",
+        "mean": "기르다",
+        "pronounce": "양"
+    },
+    {
+        "shape": "招",
+        "mean": "부르다",
+        "pronounce": "초"
+    },
+    {
+        "shape": "請",
+        "mean": "청하다",
+        "pronounce": "청"
+    },
+    {
+        "shape": "造",
+        "mean": "짓다,만들다",
+        "pronounce": "조"
+    },
+    {
+        "shape": "船",
+        "mean": "배",
+        "pronounce": "선"
+    },
+    {
+        "shape": "過",
+        "mean": "지나다",
+        "pronounce": "과"
+    },
+    {
+        "shape": "去",
+        "mean": "가다",
+        "pronounce": "거"
+    },
+    {
+        "shape": "菜",
+        "mean": "나물",
+        "pronounce": "채"
+    },
+    {
+        "shape": "移",
+        "mean": "옮기다",
+        "pronounce": "이"
+    },
+    {
+        "shape": "住",
+        "mean": "살다",
+        "pronounce": "주"
+    },
+    {
+        "shape": "許",
+        "mean": "허락하다",
+        "pronounce": "허"
+    },
+    {
+        "shape": "容",
+        "mean": "모습,용납하다",
+        "pronounce": "용"
+    },
+    {
+        "shape": "枝",
+        "mean": "가지",
+        "pronounce": "지"
+    },
+    {
+        "shape": "葉",
+        "mean": "잎",
+        "pronounce": "엽"
+    },
+    {
+        "shape": "起",
+        "mean": "일어나다",
+        "pronounce": "기"
+    },
+    {
+        "shape": "伏",
+        "mean": "엎드리다",
+        "pronounce": "복"
+    },
+    {
+        "shape": "富",
+        "mean": "부유할",
+        "pronounce": "부"
+    },
+    {
+        "shape": "貴",
+        "mean": "귀하다",
+        "pronounce": "귀"
+    },
+    {
+        "shape": "瑩",
+        "mean": "영화로울",
+        "pronounce": "영"
+    },
+    {
+        "shape": "華",
+        "mean": "빛나다",
+        "pronounce": "화"
+    },
+    {
+        "shape": "建",
+        "mean": "세우다",
+        "pronounce": "건"
+    },
+    {
+        "shape": "設",
+        "mean": "베풀다,설치하다",
+        "pronounce": "설"
     }
 ]
